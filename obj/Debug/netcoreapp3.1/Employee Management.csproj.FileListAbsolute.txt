@@ -1,0 +1,20 @@
+E:\netcore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\netcore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\appsettings.json
+E:\netcore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.exe
+E:\netcore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.deps.json
+E:\netcore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.runtimeconfig.json
+E:\netcore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.runtimeconfig.dev.json
+E:\netcore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.dll
+E:\netcore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.pdb
+E:\netcore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.AssemblyInfoInputs.cache
+E:\netcore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.AssemblyInfo.cs
+E:\netcore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.csproj.CoreCompileInputs.cache
+E:\netcore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.MvcApplicationPartsAssemblyInfo.cache
+E:\netcore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\staticwebassets\Employee Management.StaticWebAssets.Manifest.cache
+E:\netcore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\staticwebassets\Employee Management.StaticWebAssets.xml
+E:\netcore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\scopedcss\bundle\Employee Management.styles.css
+E:\netcore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorTargetAssemblyInfo.cache
+E:\netcore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.dll
+E:\netcore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.pdb
+E:\netcore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.genruntimeconfig.cache
+E:\netcore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.csproj.AssemblyReference.cache
